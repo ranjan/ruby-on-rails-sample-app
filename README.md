@@ -1,4 +1,4 @@
-# Codefresh example of Ruby on Rails
+#  example of Ruby on Rails
 
 Original version is at 	https://bitbucket.org/railstutorial/sample_app_4th_ed.git
 
